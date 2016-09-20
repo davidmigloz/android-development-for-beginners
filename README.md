@@ -1,2 +1,5 @@
 # android-development-for-beginners
-Android Development for Beginners MOOC course from Udacity.
+
+Repository for [Android Development for Beginners](https://www.udacity.com/course/android-development-for-beginners--ud837) MOOC from Udacity.
+
+> [Notes](https://github.com/davidmigloz/android-development-for-beginners/wiki)

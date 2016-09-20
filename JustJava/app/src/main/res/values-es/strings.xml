@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+    <string name="chocolate">Chocolate</string>
+    <string name="eb_cream">Añadir WhippedCream? <xliff:g example="true" id="addWhippedCream">%b</xliff:g></string>
+    <string name="eb_chocolate">Añadir hasChocolate? <xliff:g example="true" id="addWhippedCream">%b</xliff:g></string>
+    <string name="eb_name">Nombre: <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="eb_quantity">Cantidad: <xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="eb_thanks">Gracias!</string>
+    <string name="eb_total">Total: <xliff:g example="$10" id="quantity">%s</xliff:g></string>
+    <string name="error_less">No puedes pedir menos de 1 taza!</string>
+    <string name="error_more">No puedes pedir más de 100 tazas!</string>
+    <string name="initial_quantity">2</string>
+    <string name="minus">-</string>
+    <string name="name">Nombre</string>
+    <string name="order">Pedir</string>
+    <string name="plus">+</string>
+    <string name="quantity">Cantidad</string>
+    <string name="quantity_value"><xliff:g example="2" id="quantity">%d</xliff:g></string>
+    <string name="subject">Pedido de JustJava para <xliff:g example="Amy" id="name">%s</xliff:g></string>
+    <string name="toppings">Ingredientes</string>
+    <string name="whipped_cream">Crema batida</string>
+</resources>
